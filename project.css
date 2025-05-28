@@ -1,0 +1,96 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f9f9f9;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #222;
+    color: #fff;
+    padding: 2rem 1rem 1rem 1rem;
+    text-align: center;
+    position: relative;
+}
+
+.back-link {
+    position: absolute;
+    left: 1rem;
+    top: 2rem;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.project-details {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    padding: 2rem;
+}
+
+.project-image {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.project-info h2, .project-info h3 {
+    margin-top: 1.5rem;
+}
+
+ul {
+    margin-left: 1.5rem;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    background: rgba(0,0,0,0.8);
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90vw;
+    max-height: 80vh;
+    border-radius: 8px;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+
+.close {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 1001;
+    text-shadow: 0 2px 8px #000;
+}
+
+@media (max-width: 600px) {
+    .modal-content {
+        max-width: 98vw;
+        max-height: 60vh;
+    }
+    .close {
+        top: 10px;
+        right: 20px;
+        font-size: 32px;
+    }
+}

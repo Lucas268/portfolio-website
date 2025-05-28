@@ -12,17 +12,21 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hello! I'm Lucas, a passionate developer. Here are some of the projects I've worked on.</p>
+        <p>Ik ben Lucas, een software developer die met passie aan projecten werkt, zie deze website voor een aantal projecten die ik heb gemaakt.</p>
     </section>
     <section>
         <h2>Projects</h2>
         <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of project 1.</p>
+            <a href="vista-task-manager.php">
+                <h3>Vista Task Manager</h3>
+                <p>Een website gemaakt voor de vista externe challenge sector.</p>
+            </a>
         </div>
         <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of project 2.</p>
+            <a href="spell-dash.php">
+                <h3>Project Spell Dash</h3>
+                <p>Een 2D platformer game gemaakt door studenten</p>
+            </a>
         </div>
         <!-- Add more projects as needed -->
     </section>
@@ -38,7 +42,7 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: lucas@example.com</p>
+        <p>Email: 512371@vistacollege.nl</p>
     </section>
 </body>
 </html>
