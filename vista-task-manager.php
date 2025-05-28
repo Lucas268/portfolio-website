@@ -28,7 +28,7 @@
                 <li>Responsive design for all devices</li>
                 <li>User authentication</li>
             </ul>
-            <h3>Technologies Used</h3>
+            <h3>Code Talen</h3>
             <ul>
                 <li>HTML, CSS, JavaScript</li>
                 <li>PHP</li>
