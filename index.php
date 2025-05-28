@@ -18,14 +18,20 @@
         <h2>Projects</h2>
         <div class="project">
             <a href="vista-task-manager.php">
-                <h3>Vista Task Manager</h3>
+                <h3>Vista Task Manager (Examen Project)</h3>
                 <p>Een website gemaakt voor de vista externe challenge sector.</p>
             </a>
         </div>
         <div class="project">
             <a href="spell-dash.php">
-                <h3>Project Spell Dash</h3>
+                <h3>Project Spell Dash (extra Bewijslast)</h3>
                 <p>Een 2D platformer game gemaakt door studenten</p>
+            </a>
+        </div>
+        <div class="project">
+            <a href="downloads/bewijslast.zip" download class="download-btn">
+                <h3>Bewijslast</h3>
+                <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
             </a>
         </div>
         <!-- Add more projects as needed -->

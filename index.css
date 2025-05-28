@@ -68,6 +68,22 @@ footer {
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.download-btn {
+    display: block;
+    background: #4f8cff;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.download-btn:hover {
+    background: #2563eb;
+}
+
 @media (max-width: 600px) {
     section {
         margin: 0.5rem;
