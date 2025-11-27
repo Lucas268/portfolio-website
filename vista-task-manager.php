@@ -28,11 +28,6 @@
                     <li>PHP</li>
                 </ul>
             </div>
-
-            <figure class="project-screenshot">
-                <img src="assets/vista-task-manager-screenshot.png" alt="Vista Task Manager screenshot" />
-                <figcaption>Task Manager interface — organize and manage tasks</figcaption>
-            </figure>
         </header>
 
         <section class="project-details container">
@@ -64,6 +59,19 @@
                 For source code and implementation details, see:
                 <a href="https://github.com/yourname/vista-task-manager" target="_blank" rel="noopener noreferrer">github.com/yourname/vista-task-manager</a>.
             </p>
+            <h3>Screenshots</h3>
+            <figure class="project-screenshot">
+                <img src="images/TM.png" alt="Vista Task Manager screenshot 1" />
+            </figure>
+            <figure class="project-screenshot">
+                <img src="images/TM1.png" alt="Vista Task Manager screenshot 2" />
+            </figure>
+            <figure class="project-screenshot">
+                <img src="images/TM2.png" alt="Vista Task Manager screenshot 2" />
+            </figure>
+            <figure class="project-screenshot">
+                <img src="images/TM3.png" alt="Vista Task Manager screenshot 3" />
+            </figure>
         </section>
     </main>
 </body>
