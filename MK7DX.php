@@ -53,7 +53,7 @@
             <h3>Bugs &amp; feedback</h3>
             <p>
                 If you encounter any bugs or crashes, please report them to our Discord server:
-                <a href="https://discord.gg/REPLACE_WITH_YOUR_INVITE" target="_blank" rel="noopener noreferrer">Discord (invite)</a>.
+                <a href="https://discord.gg/fvJxafSM7g" target="_blank" rel="noopener noreferrer">Discord (invite)</a>.
                 Your feedback helps improve the mod and ensures a smoother experience for everyone.
             </p>
 
