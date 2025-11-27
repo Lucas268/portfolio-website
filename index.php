@@ -29,12 +29,18 @@
             </a>
         </div>
         <div class="project">
+            <a href="MK7DX.php">
+                <h3>MK7DX</h3>
+                <p>Een mod voor Mario Kart 7</p>
+            </a>
+        </div>
+
+        <div class="project">
             <a href="downloads/bewijslast.zip" download class="download-btn">
                 <h3>Bewijslast</h3>
                 <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
             </a>
         </div>
-        <!-- Add more projects as needed -->
     </section>
     <section>
         <h2>Skills</h2>

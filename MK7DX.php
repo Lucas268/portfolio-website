@@ -32,8 +32,8 @@
             </div>
 
             <figure class="project-screenshot">
-                <img src="assets/mk7dx-screenshot.png" alt="MK7DX screenshot — replace with your image" />
-                <figcaption>Screenshot — replace with original image from the build</figcaption>
+                <img src="images/MK7DX.jpg" alt="MK7DX screenshot — replace with your image" />
+                <figcaption>Thumbnail</figcaption>
             </figure>
         </header>
 
