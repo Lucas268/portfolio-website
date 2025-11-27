@@ -17,17 +17,17 @@
         <header class="project-hero container">
             <div class="project-meta">
                 <h1>MK7DX</h1>
-                <p class="tagline">Bringing MK8DX content to the 3DS family!</p>
+                <p class="tagline">Bringing MK8DX content to Mario Kart 7 on 3DS — mod port and asset conversion.</p>
 
                 <div class="actions">
-                    <a class="btn" href="https://gamebanana.com/" target="_blank" rel="noopener noreferrer">GameBanana page</a>
-                    <a class="btn ghost" href="https://github.com/yourname/mk7dx" target="_blank" rel="noopener noreferrer">Source</a>
+                    <a class="btn" href="https://gamebanana.com/mods/563342" target="_blank" rel="noopener noreferrer">GameBanana page</a>
+                    <a class="btn ghost" href="https://github.com/Lucas268" target="_blank" rel="noopener noreferrer">Source</a>
                 </div>
 
                 <ul class="tech">
-                    <li>Platform / engine</li>
-                    <li>Textures / Models</li>
-                    <li>Tools you used</li>
+                    <li>3DS modding</li>
+                    <li>Models &amp; textures</li>
+                    <li>Asset conversion &amp; testing</li>
                 </ul>
             </div>
 
@@ -39,17 +39,30 @@
 
         <section class="project-details container">
             <h2>Overview</h2>
-            <p>Write a concise overview here: what MK7DX is, your role, the goal of the mod/build, and any notable constraints or outcomes. Use GameBanana content as a source but write your own summary.</p>
+            <p>
+                Mario Kart 7 Deluxe (MK7DX) is a mod for Mario Kart 7 that brings in features inspired by
+                Mario Kart 8 Deluxe. It includes custom karts, tires, gliders, and a new character (with more planned).
+                Several tracks have been retextured to capture the look and feel of MK8DX.
+            </p>
 
-            <h3>Highlights</h3>
-            <ul>
-                <li>Key feature or challenge you solved</li>
-                <li>Design / technical decision and why</li>
-                <li>Any measurable result or reception</li>
-            </ul>
+            <h3>Future work</h3>
+            <p>
+                Future updates will introduce ported tracks from Mario Kart 8 Deluxe, recreated to work on 3DS hardware.
+            </p>
+
+            <h3>Bugs &amp; feedback</h3>
+            <p>
+                If you encounter any bugs or crashes, please report them to our Discord server:
+                <a href="https://discord.gg/REPLACE_WITH_YOUR_INVITE" target="_blank" rel="noopener noreferrer">Discord (invite)</a>.
+                Your feedback helps improve the mod and ensures a smoother experience for everyone.
+            </p>
 
             <h3>Notes</h3>
-            <p>Deployment, supported versions, installation notes or a short how-to for people who want to try it.</p>
+            <p>
+                Note: This mod uses CTGP-7 as a base; we did not create a separate launcher for it.
+                For downloads, credits and install instructions see the original GameBanana page:
+                <a href="https://gamebanana.com/mods/563342" target="_blank" rel="noopener noreferrer">gamebanana.com/mods/563342</a>.
+            </p>
         </section>
     </main>
 </body>
