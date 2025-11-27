@@ -5,64 +5,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vista Task Manager - Project Details</title>
-    <link rel="stylesheet" href="project.css">
+    <title>Vista Task Manager — Project</title>
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    <header>
-        <h1>Vista Task Manager</h1>
-        <a href="index.php" class="back-link">← Back to Portfolio</a>
-    </header>
-    <main class="project-details">
-        <img src="images/TM.png" alt="Vista Task Manager Screenshot" class="project-image preview-img">
-        <section class="project-info">
-            <h2>About the Project</h2>
+    <main class="project-page">
+        <a class="back" href="index.php">← Back to portfolio</a>
+
+        <header class="project-hero container">
+            <div class="project-meta">
+                <h1>Vista Task Manager</h1>
+                <p class="tagline">A web-based task management system built for the Vista external challenge sector.</p>
+
+                <div class="actions">
+                    <a class="btn ghost" href="https://github.com/yourname/vista-task-manager" target="_blank" rel="noopener noreferrer">Source</a>
+                </div>
+
+                <ul class="tech">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>PHP</li>
+                </ul>
+            </div>
+
+            <figure class="project-screenshot">
+                <img src="assets/vista-task-manager-screenshot.png" alt="Vista Task Manager screenshot" />
+                <figcaption>Task Manager interface — organize and manage tasks</figcaption>
+            </figure>
+        </header>
+
+        <section class="project-details container">
+            <h2>Overview</h2>
             <p>
-                Vista Task Manager is een website gemaakt voor de Vista Externe Challenge Sector. Het is een taakbeheerder waarmee gebruikers hun taken kunnen organiseren en beheren. De website is ontworpen om gebruiksvriendelijk te zijn en biedt verschillende functies om het beheren van taken eenvoudig te maken. De website is responsive, wat betekent dat deze goed werkt op zowel desktop- als mobiele apparaten.
-                 Ik heb deze website met PHP en MySQL gemaakt. Het doel van de website is om gebruikers aan een externe challenge te helpen door een platform aan te bieden waar zij kunnen zoeken naar een taak waar zij aan kunnen werken. De website biedt ook een gebruikersauthenticatie systeem zodat gebruikers hun eigen taken kunnen beheren zonder dat anderen toegang hebben tot hun gegevens.
+                Vista Task Manager is a web-based application designed as an exam project for the Vista external challenge sector.
+                The system provides an intuitive interface for task creation, organization, and management.
             </p>
+
             <h3>Features</h3>
             <ul>
                 <li>Create, edit, and delete tasks</li>
-                <li>Organize tasks by categories</li>
-                <li>Responsive design for all devices</li>
-                <li>User authentication</li>
+                <li>Organize tasks with categories and priorities</li>
+                <li>Mark tasks as complete</li>
+                <li>Responsive design for desktop and mobile</li>
+                <li>User-friendly interface</li>
             </ul>
-            <h3>Code Talen</h3>
+
+            <h3>Tech stack</h3>
             <ul>
-                <li>HTML, CSS, JavaScript</li>
-                <li>PHP</li>
-                <li>MySQL</li>
+                <li>HTML5 & CSS3 for markup and styling</li>
+                <li>JavaScript for interactivity</li>
+                <li>PHP for backend logic</li>
             </ul>
-            <h3>Screenshots</h3>
-            <img src="images/TM1.png" alt="Login Screenshot" class="project-image preview-img">
-            <img src="images/TM2.png" alt="Create Screenshot" class="project-image preview-img">
-            <img src="images/TM3.png" alt="Edit Screenshot" class="project-image preview-img">
+
+            <h3>Notes</h3>
+            <p>
+                This project was created as part of an exam challenge for the Vista educational sector.
+                For source code and implementation details, see:
+                <a href="https://github.com/yourname/vista-task-manager" target="_blank" rel="noopener noreferrer">github.com/yourname/vista-task-manager</a>.
+            </p>
         </section>
     </main>
-
-    <!-- Modal for image preview -->
-    <div id="image-modal" class="modal">
-        <span class="close" id="close-modal">&times;</span>
-        <img class="modal-content" id="modal-img">
-    </div>
-
-    <script>
-    document.querySelectorAll('.preview-img').forEach(img => {
-        img.addEventListener('click', function() {
-            document.getElementById('image-modal').style.display = 'block';
-            document.getElementById('modal-img').src = this.src;
-        });
-    });
-    document.getElementById('close-modal').onclick = function() {
-        document.getElementById('image-modal').style.display = 'none';
-    };
-    window.onclick = function(event) {
-        const modal = document.getElementById('image-modal');
-        if (event.target === modal) {
-            modal.style.display = 'none';
-        }
-    };
-    </script>
 </body>
 </html>
