@@ -57,7 +57,7 @@
             <p>
                 This project was created as part of an exam challenge for the Vista educational sector.
                 For source code and implementation details, see:
-                <a href="https://github.com/yourname/vista-task-manager" target="_blank" rel="noopener noreferrer">github.com/yourname/vista-task-manager</a>.
+                <a href="https://github.com/Lucas268/Examen" target="_blank" rel="noopener noreferrer">github.com/yourname/vista-task-manager</a>.
             </p>
             <h3>Screenshots</h3>
             <figure class="project-screenshot">
