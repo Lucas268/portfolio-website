@@ -20,7 +20,7 @@
 
                 <div class="actions">
                     <a class="btn" href="https://gamebanana.com/tools/19808" target="_blank" rel="noopener noreferrer">GameBanana page</a>
-                    <a class="btn ghost" href="https://github.com/yourname/voicemapper" target="_blank" rel="noopener noreferrer">Source</a>
+                    <a class="btn ghost" href="https://github.com/Lucas268" target="_blank" rel="noopener noreferrer">Source</a>
                 </div>
 
                 <ul class="tech">
@@ -31,7 +31,7 @@
             </div>
 
             <figure class="project-screenshot">
-                <img src="assets/voicemapper-screenshot.png" alt="Mario Kart 7 Voice Mapper screenshot" />
+                <img src="images/voicemapper.jpg" alt="Mario Kart 7 Voice Mapper screenshot" />
                 <figcaption>Voice Mapper interface — organize and export voices</figcaption>
             </figure>
         </header>

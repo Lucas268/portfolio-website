@@ -17,10 +17,6 @@
                 <h1>Project Spell Dash</h1>
                 <p class="tagline">A 2D platformer game built with Godot — navigate levels, avoid obstacles and enemies.</p>
 
-                <div class="actions">
-                    <a class="btn ghost" href="https://github.com/yourname/spell-dash" target="_blank" rel="noopener noreferrer">Source</a>
-                </div>
-
                 <ul class="tech">
                     <li>Godot</li>
                     <li>GDScript</li>
