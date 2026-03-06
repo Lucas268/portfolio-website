@@ -54,9 +54,7 @@
 
             <h3>Notes</h3>
             <p>
-                This project served as an introduction to Godot and game development fundamentals.
-                For source code and more details, visit the GitHub repository:
-                <a href="https://github.com/yourname/spell-dash" target="_blank" rel="noopener noreferrer">github.com/yourname/spell-dash</a>.
+                This project served as an introduction to Godot and game development.
             </p>
         </section>
     </main>

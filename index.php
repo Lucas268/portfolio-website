@@ -12,7 +12,9 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Ik ben Lucas, een software developer die met passie aan projecten werkt, zie deze website voor een aantal projecten die ik heb gemaakt.</p>
+        <div class="project">
+            <p>Ik ben Lucas, een software developer die met passie aan projecten werkt, zie deze website voor een aantal projecten die ik heb gemaakt.</p>
+        </div>
     </section>
     <section>
         <h2>Projects</h2>
@@ -46,6 +48,14 @@
                 <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
             </a>
         </div>
+    </section>
+    <section>
+        <h2>Doucmenten</h2>
+        <div class= "project"
+        <a href= "downloads/" download class="download-btn">
+            <h3>K1 - W1</h3>
+            <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
+        </a>
     </section>
     <section>
         <h2>Skills</h2>
