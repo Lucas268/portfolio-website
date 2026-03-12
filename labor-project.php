@@ -54,7 +54,7 @@
 
             <h3>Notes</h3>
             <p>
-                This project served as chance to learn more about python and exel. In this project we worked with a client to create a questionnaire that would help people integrate into society. The questionnaire was designed to be interactive and customizable, allowing for a wide range of response options. The project also included comprehensive reporting capabilities, making it easy to analyze and interpret the data collected from the questionnaire.
+                This project served as chance to learn more about python and excel. In this project we worked with a client to create a questionnaire that would help people integrate into society. The questionnaire was designed to be interactive and customizable, allowing for a wide range of response options. The project also included comprehensive reporting capabilities, making it easy to analyze and interpret the data collected from the questionnaire.
             </p>
         </section>
     </main>
