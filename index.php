@@ -48,14 +48,45 @@
                 <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
             </a>
         </div>
+        <div class="project">
+            <a href="labor-project.php">
+                <h3>Project Labor</h3>
+                <p>A questionnaire designed to help people integrate into society</p>
+            </a>
+        </div>
     </section>
     <section>
-        <h2>Doucmenten</h2>
+        <h2>Documents</h2>
         <div class= "project"
         <a href= "downloads/" download class="download-btn">
             <h3>K1 - W1</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
         </a>
+        </div>
+        <div class= "project"
+        <a href= "downloads/" download class="download-btn">
+            <h3>K1 - W2</h3>
+            <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
+        </a>
+        </div>
+        <div class= "project"
+        <a href= "downloads/" download class="download-btn">
+            <h3>K1 - W3</h3>
+            <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
+        </a>
+        </div>
+        <div class= "project"
+        <a href= "downloads/" download class="download-btn">
+            <h3>K1 - W4</h3>
+            <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
+        </a>
+        </div>
+        <div class= "project"
+        <a href= "downloads/" download class="download-btn">
+            <h3>K1 - W5</h3>
+            <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
+        </a>
+        </div>
     </section>
     <section>
         <h2>Skills</h2>
