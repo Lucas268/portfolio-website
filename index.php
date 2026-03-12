@@ -43,12 +43,6 @@
             </a>
         </div>
         <div class="project">
-            <a href="downloads/bewijslast.zip" download class="download-btn">
-                <h3>Bewijslast</h3>
-                <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
-            </a>
-        </div>
-        <div class="project">
             <a href="labor-project.php">
                 <h3>Project Labor</h3>
                 <p>A questionnaire designed to help people integrate into society</p>
@@ -86,6 +80,12 @@
             <h3>K1 - W5</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (PDF).</p>
         </a>
+        </div>
+        <div class="project">
+            <a href="downloads/bewijslast.zip" download class="download-btn">
+                <h3>Bewijslast (Verouderd)</h3>
+                <p>Klik hier om mijn bewijslast te downloaden (ZIP).</p>
+            </a>
         </div>
     </section>
     <section>
