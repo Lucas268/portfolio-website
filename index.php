@@ -90,16 +90,25 @@
     </section>
     <section>
         <h2>Skills</h2>
+        <div class="project">
         <ul>
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
             <li>PHP</li>
+            <li>Python</li>
+            <li>Godot</li>
+            <li>3DS Modding</li>
+            <li>3D modelling & texturing</li>
+            <li>3D animation</li>
         </ul>
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Email: 512371@vistacollege.nl</p>
+        <div class="project">
+        <p>Email (School): 512371@vistacollege.nl</p>
+        <p>Email (Personal):Lucas.peters268@gmail.com</p>
+        </div>
     </section>
 </body>
 </html>
