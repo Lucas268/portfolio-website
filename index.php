@@ -52,35 +52,35 @@
     </section>
     <section>
         <h2>Documents</h2>
-        <div class= "project"
-            v<a href= "downloads/K1-W1.zip" download class="download-btn">
+        <div class= "project">
+            <a href= "downloads/K1-W1.zip" download class="download-btn">
             <h3>K1 - W1</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (ZIP).</p>
         </a>
         </div>
-        <div class= "project"
+        <div class= "project">
             <a href= "downloads/K1-W2.zip" download class="download-btn">
             <h3>K1 - W2</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (ZIP).</p>
         </a>
         </div>
-        <div class= "project"
+        <div class= "project">
             <a href= "downloads/K1-W3.zip" download class="download-btn">
             <h3>K1 - W3</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (ZIP).</p>
         </a>
         </div>
-        <div class= "project"
+        <div class= "project">
             <a href= "downloads/K1-W4.zip" download class="download-btn">
             <h3>K1 - W4</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (ZIP).</p>
         </a>
         </div>
-        <div class= "project"
+        <div class= "project">
             <a href= "downloads/K1-W5.zip" download class="download-btn">
             <h3>K1 - W5</h3>
             <p>Klik hier om mijn bewijs voor dit onderdeel te downloaden (ZIP).</p>
-        </a>
+            </a>
         </div>
         <div class="project">
             <a href="downloads/bewijslast.zip" download class="download-btn">
